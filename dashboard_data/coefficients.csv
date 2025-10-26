@@ -1,0 +1,12 @@
+feature,coefficient
+State_Name_Mizoram,0.261416
+State_Name_Sikkim,0.22
+State_Name_Chhattisgarh,0.1743
+State_Name_Maharashtra,0.170891
+State_Name_ArunachalPradesh,-0.139072
+Age_Group_60+,0.053708
+Emergency_Response_Time,0.045132
+Stress_Level,0.040379
+Smoking,-0.058341
+Healthcare_Access,-0.063406
+Health_Insurance,-0.031971
